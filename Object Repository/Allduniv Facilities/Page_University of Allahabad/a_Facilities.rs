@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Facilities</name>
+   <tag></tag>
+   <elementGuidId>ce620135-7572-4447-b589-78fd36dd0e16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation7']/div[2]/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.focus > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Facilities&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00d9887c-e6c6-41ce-84ab-6be6f604fdf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.allduniv.ac.in/facilities</value>
+      <webElementGuid>1671ad7a-ae97-42ec-8908-454787d9b007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Facilities
+</value>
+      <webElementGuid>60f7d3c7-90fb-49a5-b4a6-e6e5bed54a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation7&quot;)/div[@class=&quot;nav-menus-wrapper&quot;]/ul[@class=&quot;nav-menu nav-menu-centered&quot;]/li[@class=&quot;focus&quot;]/a[1]</value>
+      <webElementGuid>eb6e2ca2-919f-4ec3-8127-4af0e064e714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation7']/div[2]/ul/li[7]/a</value>
+      <webElementGuid>fa9009b5-dbc2-4bc5-8038-f82807c8eab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Facilities')]</value>
+      <webElementGuid>6a231b3a-3f47-412b-9436-86895077d7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UGC Funded Major Research Project'])[1]/following::a[1]</value>
+      <webElementGuid>f459e3b8-bfcf-45ea-865a-c45dff4f6de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MoU Proforma'])[1]/following::a[2]</value>
+      <webElementGuid>62c8cecd-d017-4269-9ec0-ac316aaf23eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[4]/preceding::a[2]</value>
+      <webElementGuid>38974872-2f23-48f4-be1f-f55a91b65830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library Rules'])[1]/preceding::a[3]</value>
+      <webElementGuid>52e2344c-ecaa-44ef-bb70-4e971f0b7389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Facilities']/parent::*</value>
+      <webElementGuid>b6929f05-3d98-4f0e-8578-a7e2ea6a7e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.allduniv.ac.in/facilities')]</value>
+      <webElementGuid>0c1338a5-7c0c-4fa2-8370-696c16349ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>22aacf30-bfea-4911-9e3e-1659ce5c2f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.allduniv.ac.in/facilities' and (text() = '
+Facilities
+' or . = '
+Facilities
+')]</value>
+      <webElementGuid>48607be7-3dc9-432e-b788-3d1d300bc970</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

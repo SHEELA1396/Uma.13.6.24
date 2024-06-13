@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Admission</name>
+   <tag></tag>
+   <elementGuidId>590fbe4d-a483-41c5-8bad-a4fe9687cee1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Portal'])[1]/following::em[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admission&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>8565ee75-a348-4be8-88d7-8a61652633d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admission</value>
+      <webElementGuid>ea8f08cb-346d-47ba-83ec-41e6d6bcef1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-htmlimports&quot;]/body[1]/div[@class=&quot;section-block portal&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-12 text-center&quot;]/div[@class=&quot;portal-btns&quot;]/a[1]/em[1]</value>
+      <webElementGuid>7b3815da-776c-42bc-b089-44d5d3044e86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Portal'])[1]/following::em[1]</value>
+      <webElementGuid>9ee3a0dd-93f8-47d2-bdea-cf2bd1c06361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VICE-CHANCELLOR (UNIVERSITY OF ALLAHABAD)'])[1]/following::em[1]</value>
+      <webElementGuid>2acc68ac-2569-4a92-adf1-1023f89cff17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Mail'])[1]/preceding::em[1]</value>
+      <webElementGuid>60a4aebb-e851-4f2e-9ecf-f151ae44e8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UoA E-Office'])[1]/preceding::em[2]</value>
+      <webElementGuid>014299d7-828f-4dab-a4b8-e09cef812931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admission']/parent::*</value>
+      <webElementGuid>fdee3e20-a164-4c9f-976d-7bceb195743e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>dbb83429-d4df-49f2-9f86-659403e3da36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Admission' or . = 'Admission')]</value>
+      <webElementGuid>f894721b-a961-4b4e-a7aa-2d0a765f89ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

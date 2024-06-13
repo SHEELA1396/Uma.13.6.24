@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Departments</name>
+   <tag></tag>
+   <elementGuidId>b0ec2a33-d826-45da-8b61-4c7a6e21cef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation7']/div[2]/ul/li[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav-dropdown.nav-submenu > li.focus > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Departments&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fee9c5f0-01a5-4a14-a53a-589f30c8575d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://allduniv.ac.in/p/244/department</value>
+      <webElementGuid>c023b6ca-16d7-4333-a34e-c67c94dba4eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Departments
+</value>
+      <webElementGuid>126e9cc2-c7bd-41ac-9226-ebee8f40c34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation7&quot;)/div[@class=&quot;nav-menus-wrapper&quot;]/ul[@class=&quot;nav-menu nav-menu-centered&quot;]/li[@class=&quot;focus&quot;]/ul[@class=&quot;nav-dropdown nav-submenu&quot;]/li[@class=&quot;focus&quot;]/a[1]</value>
+      <webElementGuid>07aa5fb0-223a-4a37-b528-d89b61120d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation7']/div[2]/ul/li[4]/ul/li/a</value>
+      <webElementGuid>42bbd888-1902-4a45-9014-0d6e4420c801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Departments')])[2]</value>
+      <webElementGuid>b1682deb-fb55-441a-bd60-8a21c938969f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academics'])[1]/following::a[1]</value>
+      <webElementGuid>5d4ff74a-48b2-4e1a-8fab-9289f17757eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Former Vice Chancellors'])[1]/following::a[2]</value>
+      <webElementGuid>e5f54adc-c1f2-4728-996a-708accc6a544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institutes'])[1]/preceding::a[1]</value>
+      <webElementGuid>bdc2a7bd-5fed-45f6-ab1c-f0aa800afc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centre of Bioinformatics'])[1]/preceding::a[3]</value>
+      <webElementGuid>8f7ec308-891b-4284-989f-f6497fc791c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Departments']/parent::*</value>
+      <webElementGuid>4d812375-93a4-49be-98c6-ba422594433b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://allduniv.ac.in/p/244/department')]</value>
+      <webElementGuid>83c123be-e66a-4eac-9936-2ab70e246624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>f890ca86-9a86-4d8a-ae2e-64a0a8b791a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://allduniv.ac.in/p/244/department' and (text() = '
+Departments
+' or . = '
+Departments
+')]</value>
+      <webElementGuid>33d976ae-afa6-40ee-9454-548491d2ac5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

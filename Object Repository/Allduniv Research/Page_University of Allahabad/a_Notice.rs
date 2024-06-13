@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Notice</name>
+   <tag></tag>
+   <elementGuidId>c2e1fef1-86f3-42b4-90f4-29548976d64b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation7']/div[2]/ul/li[6]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav-dropdown.nav-submenu > li.focus > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Notice&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>300fa7d7-b725-4d1d-9f2f-d9035272941b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.allduniv.ac.in/research/notice</value>
+      <webElementGuid>f9b89eca-955b-46bc-bf2a-78dc529b8298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Notice
+</value>
+      <webElementGuid>6cf0e193-4610-48ba-b159-6126441b9d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation7&quot;)/div[@class=&quot;nav-menus-wrapper&quot;]/ul[@class=&quot;nav-menu nav-menu-centered&quot;]/li[@class=&quot;focus&quot;]/ul[@class=&quot;nav-dropdown nav-submenu&quot;]/li[@class=&quot;focus&quot;]/a[1]</value>
+      <webElementGuid>6e60a501-fa42-41c2-b5b6-db27b10562eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation7']/div[2]/ul/li[6]/ul/li[6]/a</value>
+      <webElementGuid>f285c7d4-8c41-4b71-a612-0d2a0ddd7ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Notice')])[3]</value>
+      <webElementGuid>c7445110-bcc1-46f2-8376-2c0ad1be9412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ph.D Data'])[1]/following::a[1]</value>
+      <webElementGuid>2462ccf6-877d-4e5b-9660-a6e7a1021f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IPR/Patent'])[1]/following::a[2]</value>
+      <webElementGuid>f1afe2d3-65e5-4e0d-b5fe-d502357a8791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MoU Proforma'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8088ecd-79fe-467d-88c2-71d22fe2c148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UGC Funded Major Research Project'])[1]/preceding::a[2]</value>
+      <webElementGuid>749a63dc-6e35-43ed-824b-4a0a4d5f25ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.allduniv.ac.in/research/notice')]</value>
+      <webElementGuid>4b370e84-38e0-4b62-bd4b-d99659e96f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[6]/a</value>
+      <webElementGuid>e0d04e3b-7ea1-47c5-8ff2-917b76a3b9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.allduniv.ac.in/research/notice' and (text() = '
+Notice
+' or . = '
+Notice
+')]</value>
+      <webElementGuid>7c3502d7-58ae-46d3-80a8-71756ff836ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
